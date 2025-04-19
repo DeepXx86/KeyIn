@@ -1,0 +1,15 @@
+{
+  "paranoid": false,
+  "reed_solomon": false,
+  "deniability": false,
+  "recursively": false,
+  "split": false,
+  "split_size": "",
+  "split_unit": "MiB", //KiB, MiB, GiB, TiB
+  "compress": false,
+  "delete": false,
+  "auto_unzip": false,
+  "same_level": false,
+  "keep": false,
+  "keyfile_ordered": false
+}
