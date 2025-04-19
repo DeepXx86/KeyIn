@@ -1,9 +1,9 @@
 # KeyIn 🔐
 
-**KeyIn** is a lightweight and secure command-line tool for file encryption and decryption.  
-Built on the foundation of [Picocrypt](https://github.com/Picocrypt/Picocrypt?tab=readme-ov-file), it provides a simple yet robust solution for protecting your data.
+**KeyIn** is a cli for file encryption and decryption.  
+Base code [Picocrypt](https://github.com/Picocrypt/Picocrypt?tab=readme-ov-file) 📁
 
-KeyIn supports a wide range of file formats, including `.mp4`, `.jpg`, `.docx`, `.mp3`, `.pdf`, and more.
+for encrypts literally any file like `.mp4`, `.jpg`, `.docx`, `.mp3`, `.pdf`, and more.
 
 ## Features
 
