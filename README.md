@@ -7,10 +7,8 @@ for encrypts literally any file like `.mp4`, `.jpg`, `.docx`, `.mp3`, `.pdf`, an
 
 ## Features
 
-- 🔐 Strong encryption for sensitive files  
-- 📁 Compatible with virtually all file types  
-- ⚙️ Minimalistic and easy to use  
-- 🚫 No external dependencies required  
+- 🔐 Strong encryption 
+- ⚙️ Easy to use  
 
 ## Usage
 
