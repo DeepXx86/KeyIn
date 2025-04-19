@@ -1,11 +1,22 @@
 # KeyIn 🔐
 
-Terminal tool for encryption.  
-Based on [Picocrypt]([https://github.com/HACKERALERT/Picocrypt](https://github.com/Picocrypt/Picocrypt?tab=readme-ov-file)) base code 🥱.  
-for encrypts literally any file like `.mp4`, `.jpg`, `.png`, `.mp3`, `.pdf`, `.younameit` 📂.
+**KeyIn** is a lightweight and secure command-line tool for file encryption and decryption.  
+Built on the foundation of [Picocrypt](https://github.com/Picocrypt/Picocrypt?tab=readme-ov-file), it provides a simple yet robust solution for protecting your data.
 
-## Usage 🤓
+KeyIn supports a wide range of file formats, including `.mp4`, `.jpg`, `.docx`, `.mp3`, `.pdf`, and more.
+
+## Features
+
+- 🔐 Strong encryption for sensitive files  
+- 📁 Compatible with virtually all file types  
+- ⚙️ Minimalistic and easy to use  
+- 🚫 No external dependencies required  
+
+## Usage
 
 ```bash
-go run base.go -encrypt <file>
-go run base.go -decrypt <file.kyi>
+# Encrypt a file
+go run base.go -encrypt <path-to-file>
+
+# Decrypt a file
+go run base.go -decrypt <path-to-file>.kyi
